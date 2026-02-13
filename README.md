@@ -1,0 +1,1 @@
+First personal project for boot.dev. It did say to use a lanugage already taught in the courses, but I had already started writing this in Rust, so be it. Just a simple implementation of the "Ray Tracing in One Weekend" book, plus a couple of things from the PBRT book.
